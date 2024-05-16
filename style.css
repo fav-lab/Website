@@ -1,0 +1,8 @@
+.container-fluid {
+    display: flex;
+    justify-content: space-between;
+}
+.navbar-nav {
+    display: flex;
+    justify-content: flex-start;
+}
